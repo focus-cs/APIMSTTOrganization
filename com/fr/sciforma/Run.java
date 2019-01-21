@@ -24,7 +24,7 @@ import org.pmw.tinylog.Logger;
 
 /**
  *
- * @author lahou
+ * @author lahoudie
  */
 public class Run {
 
